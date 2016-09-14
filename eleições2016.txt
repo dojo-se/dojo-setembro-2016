@@ -1,0 +1,13 @@
+Linguagem:
+
+Python
+|||||||||||||||||||||||||||||||||||||||||||||||
+
+
+Votação:
+
+Seqüência Look-and-Say
+|||||||
+
+Numbers that are a power of their sum of digits
+||||||
